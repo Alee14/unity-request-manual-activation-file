@@ -4,7 +4,7 @@ description: 'Request the manual activation file for acquiring a Unity personal 
 inputs:
   unityVersion:
     required: false
-    default: '3.4'
+    default: '3.4.0'
     description: 'Version of unity to use for building the project.'
 outputs:
   filePath:
